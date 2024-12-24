@@ -1,0 +1,9 @@
+{
+    "name": "myapp",
+    "version": "1.0.0",
+    "description": "Tester app for docker",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
